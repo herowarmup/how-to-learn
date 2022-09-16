@@ -349,8 +349,3 @@ template {
 [hidden] {
   display: none;
 }
-
-ul[class],
-ol[class] {
-  list-style: none;
-}
