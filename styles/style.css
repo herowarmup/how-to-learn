@@ -156,6 +156,7 @@
   line-height: 115%;
   font-size: 24px;
   font-weight: 600;
+  margin-bottom: 20px;
 }
 
 .table__text {
@@ -174,8 +175,8 @@
   min-height: 890px;
   position: relative;
   background-color: #f2f2f2;
-  padding-top: 100px;
   box-sizing: border-box;
+  padding-top: 100px;
 }
 
 .feynman__title {
@@ -185,7 +186,6 @@
   line-height: 115%;
   font-size: 120px;
   font-weight: 600;
-  margin-top: 100px;
   position: relative;
   z-index: 3;
 }
